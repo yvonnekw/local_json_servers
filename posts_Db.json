@@ -1,0 +1,35 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" },
+
+"address":{
+  "primary":[
+    {
+      "city": "London",
+      "state": "Greater London",
+      "country": "United Kingdom",
+      "pinCode":1112
+},
+{
+  "city": "London2",
+      "state": "Greater London2",
+      "country": "United Kingdom",
+      "pinCode":21233
+}
+],
+"secondary":[
+  {
+  "city": "London",
+      "state": "Greater London",
+      "country": "United Kingdom",
+      "pinCode":699098
+}
+]
+
+}
+}
