@@ -1,0 +1,37 @@
+{
+  "store":{
+  "books": [
+    {
+      "id": 1,
+      "author": "Chris Pagac DDS",
+      "category": "friction",
+      "price": 61,
+      "title": "The lovers"
+    },
+    {
+      "id": 2,
+      "author": "Chris Pagac DDS",
+      "category": "friction",
+      "price": 61,
+      "title": "It is not my food"
+    },
+    {
+      "id": 4,
+      "author": "Chris Pagac DDS",
+      "category": "friction",
+      "price": 61,
+      "title": "Exercise is advantage"
+    },
+    {
+      "id": 3,
+      "author": "Chris Pagac DDS",
+      "category": "friction",
+      "price": 61,
+      "title": "Do you like the rain?"
+    }
+  ]
+
+
+
+}
+}

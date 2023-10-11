@@ -1,0 +1,66 @@
+{
+  "students": [
+    {
+      "firstName": "David",
+      "lastName": "White",
+      "courses": [
+        "java",
+        "selenium"
+      ],
+      "id": "101",
+      "programme": "Developer",
+      "email": "d.white@gmail.com"
+    },
+    {
+      "firstName": "David",
+      "lastName": "White",
+      "courses": [
+        "java",
+        "selenium"
+      ],
+      "programme": "Developer",
+      "email": "d.white@gmail.com",
+      "id": "sf1NEH_"
+    },
+    {
+      "firstName": "David",
+      "lastName": "White",
+      "courses": [
+        "java",
+        "selenium"
+      ],
+      "programme": "Developer",
+      "email": "d.white@gmail.com",
+      "id": "1wnXwYU"
+    },
+    {
+      "firstName": "David",
+      "lastName": "White",
+      "courses": [
+        "java",
+        "selenium"
+      ],
+      "programme": "Developer",
+      "email": "d.white@gmail.com",
+      "id": "3R6jgi6"
+    },
+    {
+      "firstName": "David",
+      "lastName": "White",
+      "courses": [
+        "java",
+        "selenium"
+      ],
+      "programme": "Developer",
+      "email": "d.white@gmail.com",
+      "id": "WNShAtT"
+    },
+    {
+      "courses": [
+        "java",
+        "selenium"
+      ],
+      "id": "U5_7zbt"
+    }
+  ]
+}
